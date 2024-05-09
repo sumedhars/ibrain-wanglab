@@ -19,7 +19,12 @@ The following steps are a brief overview of what was done:
 10. Build an additional model using ADAS Cog scores provided in the ADNI clinical data
 
 ### Authors and acknowledgment
+Authors:
 - Aidan Waterman
 - Ian Kirkpatrick
 - Sierra Andrews
 - Sumedha Sanjeev
+
+Sponsor & Professor:
+- Dr. John Bukowy (MSOE)
+- Dr. Yang Wang (MCW)
